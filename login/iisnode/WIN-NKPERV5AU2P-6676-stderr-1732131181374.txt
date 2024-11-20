@@ -1,0 +1,7 @@
+Application has thrown an uncaught exception and is terminated:
+ReferenceError: PORT is not defined
+    at Server.<anonymous> (C:\Sites\login\server.js:10:56)
+    at Object.onceWrapper (node:events:633:28)
+    at Server.emit (node:events:531:35)
+    at emitListeningNT (node:net:1932:10)
+    at process.processTicksAndRejections (node:internal/process/task_queues:81:21)
